@@ -17,7 +17,7 @@ Personal Finance Tracker is a simple GUI application built using Python and Tkin
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/finance-tracker.git
+   git clone https://github.com/helithjay/Enhanced-Personal-Finance-Tracker-GUI-Implementation-with-Tkinter-and-OOP-.git
    ```
 2. Navigate to the project directory:
    ```sh
